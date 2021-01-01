@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c40bb43b-f657-495e-b3a9-636994b348e7" name="Default Changelist" comment="prototype">
+    <list default="true" id="c40bb43b-f657-495e-b3a9-636994b348e7" name="Default Changelist" comment="final version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
@@ -81,7 +81,7 @@
       <workItem from="1609229398221" duration="1346000" />
       <workItem from="1609396657199" duration="2308000" />
       <workItem from="1609392906308" duration="8271000" />
-      <workItem from="1609445623519" duration="5361000" />
+      <workItem from="1609445623519" duration="8094000" />
     </task>
     <task id="LOCAL-00001" summary="prototype">
       <created>1609401467496</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609401467496</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final version">
+      <created>1609452328723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609452328723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="prototype" />
+    <MESSAGE value="final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

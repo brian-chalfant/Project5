@@ -1,3 +1,9 @@
+/*
+Name: Chalfant, Brian
+Project #: 05
+PHP Sandbox index.css
+*/
+
 body {
     background-color: rgb(178, 157, 105);
 
@@ -112,7 +118,6 @@ img {
 .desc {
     align-self: center;
     background-color: white;
-    font-size: 24px;
     font-family: "Times New Roman", sans-serif;
     margin: 0 10px 10px;
 }
